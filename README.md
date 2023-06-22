@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm about to switch career from industrial engineering (focused on civil engineering) to data science. I mainly work in python especially with data related libraries such as pandas and scikit learn. I'm interested in music so there will be some music related projects on my profile coming soon.
 
-Upcoming project: automatically extracting tracklists of soundcloud dj-sets only by using the audio file and some sort of shazam api. Stay tuned🎵
+Upcoming project: automatically extracting tracklists of soundcloud dj-sets by using the audio file and some sort of shazam api. Stay tuned🎵
 <!--
 **Buggy0815/Buggy0815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
